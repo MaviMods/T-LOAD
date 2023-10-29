@@ -27,9 +27,9 @@ echo -e "\e[1m\e[31m\
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
               ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mMaviMods \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31mYOUTUBE- Noob Hackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31mInstagram- manavalan.og\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
